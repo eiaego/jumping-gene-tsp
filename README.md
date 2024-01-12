@@ -17,4 +17,20 @@ GA'nın performansını iyileştirmek amacıyla bu çalışmada GA-JGHO yöntemi
 
 <h2>Sonuçlar</h2>
 
+<h4>Şekil 1. GA-JGHO ve diğer yöntemler ile elde edilen sonuçların sıralamaları</h4>
+
+![Model](https://github.com/eiaego/jumping-gene-tsp/blob/main/img/makale_rank.png?raw=true)
+
+
+<h4>Şekil 2. GA-JGHO ve diğer yöntemlerin yakınsama hızları karşılaştırılması</h4>
+
+![Model](https://github.com/eiaego/jumping-gene-tsp/blob/main/img/makale_convergence.png?raw=true)
+
+
+<h4>Şekil 3. Paylaşılan uygulamadan elde edilen yakınsama sonuçları</h4>
+
+![Model](https://github.com/eiaego/jumping-gene-tsp/blob/main/img/uygulama_convergence.png?raw=true)
+
+
+
 Önerilen GA-JGHO algoritması, 30 örnek üzerinde yapılan hesaplamaların ortalaması ve yakınsama grafikleri ile incelenen yakınsama hızı göz önünde bulundurulduğunda, girişte bahsedilen yaklaşımlara göre çok daha iyi performans göstermiştir. GA-JGHO'nun etkinliği ve üstünlüğü hem teoride hem de pratikte doğrulanmıştır. Bununla birlikte, GA-JGHO'nun hala belirli sınırlamaları bulunmaktadır. Örneğin GA-JGHO sadece simetrik TSP çözümlemeleri için uygundur; iş zamanlama problemlerini, knapsack problemlerini ve sürekli optimizasyon problemlerini çözmek için uygun değildir.
